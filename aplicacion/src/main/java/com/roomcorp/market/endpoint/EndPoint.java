@@ -22,3 +22,4 @@ public class EndPoint {
     return Response.status(200).entity("Hello " ).build();
   }
 }
+
